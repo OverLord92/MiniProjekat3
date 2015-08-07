@@ -1,4 +1,4 @@
-package ValidacijaKartice;
+package Klase;
 import java.util.Scanner;
 
 public class Financial {

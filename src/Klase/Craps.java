@@ -1,4 +1,4 @@
-package ValidacijaKartice;
+package Klase;
 public class Craps {
 
 	/**
